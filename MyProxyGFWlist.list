@@ -24,6 +24,18 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-KEYWORD,copilot
+DOMAIN-SUFFIX,access-point.cloudmessaging.edge.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
+DOMAIN-SUFFIX,www.bingapis.com
+DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
+DOMAIN-SUFFIX,functional.events.data.microsoft.com
+DOMAIN-SUFFIX,designer.microsoft.com
+DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+
 
 # Telegram
 #PROCESS-NAME,Telegram.exe
